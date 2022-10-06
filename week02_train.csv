@@ -1,0 +1,84 @@
+
+
+N	51.9018	-8.4582	D254	06 Oct 2022	D254\nCork to Cobh\nExpected Departure 18:30	To Cobh
+
+
+
+
+
+N	53.3433	-6.24829	D931	06 Oct 2022	D931\nDublin Pearse to Maynooth\nExpected Departure 18:34	Northbound
+
+
+N	53.3509	-6.23929	D315	06 Oct 2022	D315\nDocklands to M3 Parkway\nExpected Departure 18:30	Northbound
+
+
+
+
+
+
+R	0	0	D215	06 Oct 2022	D215\n18:25 - Dublin Heuston to Portlaoise (-4 mins late)\nArrived Inchicore Advance Starter next stop Park West and Cherry Orchard	To Portlaoise
+R	0	0	D229	06 Oct 2022	D229\n18:25 - Mallow to Cork (0 mins late)\nDeparted Killarney Junction next stop Cork	To Cork
+R	0	0	D416	06 Oct 2022	D416\n18:00 - Grand Canal Dock to Hazelhatch (-3 mins late)\nArrived Inchicore Advance Starter next stop Park West and Cherry Orchard	Southbound
+
+
+
+
+
+
+
+
+
+R	53.1454	-7.06361	D212	06 Oct 2022	D212\n17:27 - Dublin Heuston to Portlaoise (3 mins late)\nDeparted Monasterevin next stop Portarlington	To Portlaoise
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R	53.3223	-6.52356	D214	06 Oct 2022	D214\n18:05 - Dublin Heuston to Portlaoise (1 mins late)\nArrived Hazelhatch next stop Sallins	To Portlaoise
+R	53.3223	-6.52356	D415	06 Oct 2022	D415\n17:32 - Grand Canal Dock to Newbridge (6 mins late)\nDeparted Hazelhatch next stop Sallins	Southbound
+
+
+
+R	53.347	-6.25425	D821	06 Oct 2022	D821\n18:24 - Dublin Pearse to Drogheda (1 mins late)\nArrived Tara Street next stop Dublin Connolly	Northbound
+R	53.3531	-6.24591	D417	06 Oct 2022	D417\n18:17 - Grand Canal Dock to Newbridge (1 mins late)\nArrived Dublin Connolly next stop Drumcondra	Southbound
+
+
+R	53.3632	-6.25908	D930	06 Oct 2022	D930\n17:30 - Bray to Maynooth (1 mins late)\nArrived Drumcondra next stop Broombridge	Northbound
+R	53.3704	-6.50598	D927	06 Oct 2022	D927\n17:00 - Bray to Maynooth (2 mins late)\nDeparted Leixlip (Louisa Bridge) next stop Maynooth	Northbound
+R	53.3752	-6.31388	D928	06 Oct 2022	D928\n18:16 - Dublin Connolly to Longford (1 mins late)\nArrived Pelletstown next stop Maynooth	Northbound
+
+R	53.3776	-6.39072	D929	06 Oct 2022	D929\n18:00 - Dublin Connolly to Maynooth (1 mins late)\nDeparted Coolmine next stop Clonsilla	Northbound
+
+
+
+
+R	53.3853	-6.44205	D314	06 Oct 2022	D314\n17:57 - Docklands to M3 Parkway (1 mins late)\nArrived Hansfield next stop Dunboyne	Northbound
+
+
+R	53.4032	-6.14839	D820	06 Oct 2022	D820\n18:00 - Dublin Pearse to Dundalk (5 mins late)\nArrived Clongriffin next stop Portmarnock	Northbound
+R	53.4157	-6.83395	D925	06 Oct 2022	D925\n17:17 - Dublin Connolly to Longford (0 mins late)\nDeparted Enfield next stop Mullingar	Northbound
+
+
+
+R	53.638	-6.21705	D819	06 Oct 2022	D819\n16:50 - Bray to Drogheda (4 mins late)\nDeparted Gormanston next stop Laytown	Northbound
+R	53.712	-6.33538	D818	06 Oct 2022	D818\n17:13 - Dublin Pearse to Newry (0 mins late)\nDeparted Drogheda next stop Dundalk	To Newry
+
+
+
+
+
+
+
+
+T	53.378	-6.58993	D926	06 Oct 2022	D926\n17:30 - Dublin Connolly to Maynooth(5 mins late)\nTERMINATED Maynooth at 18:19	Northbound
+

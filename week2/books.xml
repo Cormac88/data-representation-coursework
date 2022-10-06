@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Library>
+	<Book category="Technical">
+		<Title>
+			Hyperion
+		</Title>
+		<Author>
+			Dan Simmons
+		</Author>
+		<ISBN>
+			0399178619
+		</ISBN>
+	</Book>
+	<Book category="Technical">
+		<Title>
+			The Wheel of Time #1 The Eye of the World
+		</Title>
+		<Author>
+			Robert Jordan
+		</Author>
+		<ISBN>
+			0812511816
+		</ISBN>
+	</Book>
+	<Book category="Cookery">
+		<Title>
+			The Ultimate Crock Pot Cookbook for Beginners: 1000 Easy and 
+            Affordable Recipes for Everyday Slow Cooking
+		</Title>
+		<Author>
+			Bobby D. Roberts
+		</Author>
+		<ISBN>
+			979-8849519609
+		</ISBN>
+	</Book>
+	<Book category="Cookery">
+		<Title>
+			BAKE: My Best Ever Recipes for the Classics
+		</Title>
+		<Author>
+			Paul Hollywood
+		</Author>
+		<ISBN>
+			1526647168
+		</ISBN>
+	</Book>
+</Library>
